@@ -65,7 +65,7 @@ let result2 =
 result2;
 
 
-// square problem //
+// square problem - new methood Math.sqrt - square rooting //
 
 var 
 x0 = 0 , 
