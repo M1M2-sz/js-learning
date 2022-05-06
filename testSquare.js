@@ -1,5 +1,5 @@
 
-// square problem - new methood Math.sqrt - square rooting //
+
 
 var 
 x0 = 0 , 
