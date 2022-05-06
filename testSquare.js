@@ -7,10 +7,11 @@ y1 = 10 ;
 
 
 if ( x1 >= R + x0 , y1 >= R + y0 ) 
-{console.log ( 'The value is not included in the circle' )} 
+{console.log ( 'The value is not included in the circle' );} 
 else if ( x1 <= R + x0 , y1 <= R + y0 ) 
-{console.log ( 'The value enters in the circle' )} 
-else ( 'Enters in the circle!' )
+{console.log ( 'The value enters in the circle' );} 
+else 
+{console.log ( 'Enters in the circle!' );}
 
 
 
