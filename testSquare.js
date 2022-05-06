@@ -8,7 +8,7 @@ R = 10 ,
 x1 = 10 ,
 y1 = 10 ;
 
-if ( Math.sqrt ( x1 * x1 + y1 * y1 ) >= R ) 
+if ( ( x1 * x1 + y1 * y1 ) ** (1/2) > R ) 
 {console.log ( 'The value is not included in the circle' );} 
 
 else 
